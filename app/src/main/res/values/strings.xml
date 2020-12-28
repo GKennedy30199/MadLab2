@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week2Lab2</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="type_in_weight_in_kg">Type in weight in Kg:</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="type_in_height_in_cm">Type in Height in Cm:</string>
+</resources>
